@@ -1,4 +1,4 @@
-# SW 💻
+# AW 💻
 Repositorio para la asignatura de Aplicaciones Web de Ingeniería Informática
 ***
 ## Licencia 📄
